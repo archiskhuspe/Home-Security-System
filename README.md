@@ -2,5 +2,5 @@
 
 💫 Files
 
-Arduino Code:
-Research Paper: Detailed information of the project
+1. Arduino Code:
+2. Research Paper: Detailed information of the project
